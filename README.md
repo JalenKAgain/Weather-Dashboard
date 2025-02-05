@@ -5,33 +5,32 @@
 An application for travelers to see the weather outlook for multiple cities in order to plan trips accordingly
 
 ## Table of Contents
-- [Installatiom](#Installation)
-- [Usuage](#Usuage)
-- [License](#License)
+- [Execution](#Execution)
+- [Usage](#Usage)
+- [Improvements Needed](#Improvements_Needed)
 - [Contributing](#Contributing)
-- [Tests](#Tests)
+- [Note](#Note)
 - [Questions](#Questions)
         
-## Installation
-
- Install NPM packages
-   ```sh
-   npm i inquirer
-   ```
+## Execution
+* Create and register API Key
 
 ## Usage
-Create a professional README for new projects.
 
 
-## License
-This project is licensed under the [MIT License](LICENSE)
+
+## Improvemnents Needed
+* Being able to use the 5-day weather forecast API.
+* Pass in coordinates for city and state.
+* Retrieve geographical coordinates given a city name.
+* Make the OpenWeather API calls server-side, parse the data, and then send the parsed data client-side
 
 ## Contributing
-Contributions are always welcome. 
+Are strongly recommended for better understanding 
 
 
-## Tests
-![image_alt](https://github.com/JalenKAgain/Challenge-7/blob/027c967f49866140bdbca403a99dd78914f4918f/Screenshot%202025-01-12%20131415.png)
+## Note
+
 
 ## Questions
 If you have any questions feel free to reach me at the following:
